@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x0371b8078d2ff2e3669cd0317b28cd6cf906a7ff",
+  "SCAN_LINK": "https://etherscan.com/token/0x0371b8078d2ff2e3669cd0317b28cd6cf906a7ff",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Eth",
+    "ID": 1
+  },
+  "NFT_NAME": "alien punks",
+  "SYMBOL": "IAARNFT",
+  "MAX_SUPPLY": 7777,
+  "WEI_COST": 60000000000000000,
+  "DISPLAY_COST": 0.06,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/iaaralienpunks",
+  "SHOW_BACKGROUND": true
+}
